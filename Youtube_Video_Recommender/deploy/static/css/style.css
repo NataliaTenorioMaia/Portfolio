@@ -1,0 +1,17 @@
+nav {
+    text-align: center;
+    background-color:maroon;
+    padding: 10px;
+    }
+
+nav a {
+    text-align: center;
+    text-decoration:none;
+    color:ghostwhite;
+               }
+
+                            
+.prediction-table th,
+.prediction-table td{
+    padding: 1202px 15px;
+                             }
