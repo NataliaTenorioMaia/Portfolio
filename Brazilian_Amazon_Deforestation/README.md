@@ -1,13 +1,10 @@
-<p align="center" style="color:black;font-size:28px;" ><strong>
-Analysis of the historical deforestation and socioeconomic data of the Brazilian Amazon</strong>
-</p>
-<br>
+## Legal Amazon historical deforestation and socioeconomic data analysis
 
 <p align="center">
   <img src="images/Terra_Indigena_Pirititi_Roraima.jpg" width="90%">
 </p>
 
-## Introduction
+### Introduction
 
 <p align="justify">
 Amazonia is the richest ecosystem on Earth. Its rainforest covers an area of about 5.5 million km² stretching over nine countries: Brazil, Colombia, Peru, Venezuela, Ecuador, Bolivia, Guyana, Surinam, and French Guyana. About 60% of the Amazon forest lies in Brazil. In this project, I analyzed the historical deforestation data of the Brazilian Amazon, which go from the year 1988 to 2020. The deforestation was investigated in conjunction with other historical data: cattle population, Gross Domestic Product (GDP) per capita and Human Development Index (HDI) of the Legal Amazon. The Brazilian Institute of Geography and Statistics <a href="https://www.ibge.gov.br">(IBGE)</a>  and the Brazilian National Institute of Space Research <a href="http://www.inpe.br">(INPE)</a>  are the sources of the data used in this analysis.  
@@ -17,7 +14,7 @@ The <a href="https://www.worldbank.org/pt/news/feature/2019/05/22/why-the-amazon
 For its undeniable importance for life on Earth, the preservation of the Amazon forest has been the subject of constant debate, especially in the recent years, due to the <a href="https://amazonia2030.org.br/wp-content/uploads/2021/04/AMZ2030-Fatos-da-Amazonia-20211.pdf">rising rates</a> of deforestation. It remains a challenge for the local societies to develop their economy by using the resources of the Amazon forest while keeping it preserved. Therefore, the purpose of this analysis is to glean insights regarding the correlation between deforestation and socioeconomic growth in the Legal Amazon, in order to help with the development of future, effective practices which will most benefit that region.
 </p>
 
-## Deforestation in the Legal Amazon
+### Deforestation in the Legal Amazon
 <p align="justify">    
 The Legal is a geopolitical definition that was introduced in 1953 in order to help plan the development of the Brazilian Amazon region, and it is composed by eight states - Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima and Tocantins - plus a portion of a nineth state - Maranhão. The Legal Amazon encompasses the entire Brazilian Amazon forest, as well as parts of two other biomes called Cerrado and Pantanal. The deforestation data provided by the INPE used in this project refers only to the Amazon forest, and do not account for the other two biomes.
     
@@ -40,7 +37,7 @@ From 1988 to 2020, the Brazilian Amazon forest lost a total of 457237 km² of ar
   <img src="images/pie_chart.jpg" width="50%">
 </p>
 
-## Deforestation and the cattle population
+### Deforestation and the cattle population
 <p align="justify">
 Since it is has been previously brought to attention [1-4] that the meat industry is the main cause of deforestation in the Brazilian Amazon forest, in this section the correlation between deforestation and cattle population will be investigated.
     
@@ -69,7 +66,7 @@ The three graphs above illustrate a possible correlation between the deforestati
 
 In the next section, a similar analysis will be performed with the socioeconomic indicators GDP per capita and HDI of the states of the Legal Amazon.
 
-## Deforestation and socioeconomic indicators
+### Deforestation and socioeconomic indicators
 
 Since the HDI in Brazil is calculated every 10 years or so (this interval varies from time to time, it can increase or decrease by a couple of years), I chose to plot the average value of the deforestation area in that same interval. In other words, when I plot the HDI of the year of 2000, I will simultaneously plot the average deforestation area between 1991 and 2000; then, when I plot the HDI of the year 2010, I will also plot the average deforestation area between 2000 and 2010; similarly, for the HDI related to 2017, I will plot the deforestation area between 2010 and 2017. Note that since the deforestation data that goes from 1988 to 2020, when I plot the HDI for 1991, the corresponding average deforestation area will be that of 1988 to 1991. These considerations are illustrated in the graphs below.
 
@@ -91,7 +88,7 @@ The three graphs above give an idea of the correlation between deforestation and
 
 The deforestation and HDI of these states, as shown in the graphs above, seem to be closely correlated. In fact, the correlation coeficients of deforestation and HDI for Mato Grosso, Pará and Rondônia, are 0.99, 0.99 and 0.91. This means that the variations in the deforestation and in the HDI for those states are strongly correlated, which raises the questions: how can the economy of those states grow while their human development index drop? how can we make the human development benefit from the growth in the economy? An investigation of the distribution of income in those states might help to answer this question.
 
-## Final Remarks
+### Final Remarks
 
 The historical deforestation data of the Legal Amazon were analyzed together with the data of the cattle population, GDP per capita and HDI of that region.
 
@@ -103,7 +100,7 @@ For seven of the nine states belonging to the Legal Amazon, the variation in GDP
 
 Furthermore, this analysis endorsed the claim that economical growth in the Legal Amazon does not depend on the destruction of the Amazon forest. In fact, for most of the states, it seems to increase as the deforestation rates decrease in time. It remains to answer to the question of how human development can benefit from the economical growth while the deforestation rates drop. Further analysis on other kinds of socioeconomic indicators, such as how the income is distributed and what are the main human an natural resources in each state, is necessary in order to look for effective solutions to this social challenge.
 
-## References
+### References
 
 [1] Margulis, S. "Causas do desmatamento na Amazônia brasileira". Brasília, DF: Banco Mundial, 2003.<br>
 [2] Rivero, S.; Almeida, O.; Ávila, S.; Oliveira, W. "Pecuária e desmatamento: uma análise das principais causas diretas do desmatamento na Amazônia". Nova Economia, Belo Horizonte, v. 1, n. 19, p. 41-66, jan./abr. 2009.<br>
