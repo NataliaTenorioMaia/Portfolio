@@ -16,7 +16,7 @@ For its undeniable importance for life on Earth, the preservation of the Amazon 
 
 ### Deforestation in the Legal Amazon
 <p align="justify">    
-The Legal is a geopolitical definition that was introduced in 1953 in order to help plan the development of the Brazilian Amazon region, and it is composed by eight states - Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima and Tocantins - plus a portion of a nineth state - Maranhão. The Legal Amazon encompasses the entire Brazilian Amazon forest, as well as parts of two other biomes called Cerrado and Pantanal. The deforestation data provided by the INPE used in this project refers only to the Amazon forest, and do not account for the other two biomes.
+The Legal Amazon is a geopolitical definition introduced in 1953 in order to help plan the development of the Brazilian Amazon region, and it is composed by eight states - Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima and Tocantins - plus a portion of a nineth state - Maranhão. The Legal Amazon encompasses the entire Brazilian Amazon forest, as well as parts of two other biomes called Cerrado and Pantanal. The deforestation data provided by the INPE used in this project refers only to the Amazon forest, and do not account for the other two biomes.
     
 The graph below shows the evolution of the deforestation rates in the states of the Legal Amazon from 1988 to 2020. There were peaks in the deforestation curve in the years 1995 and 2004. A substantial decrease in the deforestation rates can be noticed for all states after 2004, but after 2012 the rates started to increase again. The states of Mato Grosso, Pará and Rondônia present the highest deforestation rates in the Legal Amazon.
 </p>
